@@ -13,7 +13,7 @@ import com.cts.eauction.model.Product;
 import com.cts.eauction.repository.ProductRepository;
 import com.cts.eauction.service.ProductService;
 
-@Service
+@Service 
 public class ProductServiceImpl implements ProductService {
 	
 	@Autowired

@@ -7,6 +7,7 @@ import org.springframework.stereotype.Service;
 import com.cts.eauction.model.Product;
 
 
+
 public interface ProductService {
 	
 	List<Product> findAll();
